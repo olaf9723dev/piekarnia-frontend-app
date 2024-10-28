@@ -1,0 +1,29 @@
+.notification-card {
+    border-radius: 26px;
+    margin: 1.5vh 0;
+    padding: 2vh;
+}
+
+.notifications-wrapper {
+    width: 80vw;
+    display: flex;
+    flex-direction: column;
+    margin: 2vh auto 16vh;
+}
+
+.notification-title {
+    font-weight: bold;
+    font-size: 18px;
+    color: #f1a243;
+}
+.notification-date {
+    font-size: 14px;
+    color: #666;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.notification-content {
+    font-size: 14px;
+
+}

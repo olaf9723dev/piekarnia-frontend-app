@@ -1,0 +1,7 @@
+#issue-num, #issue-status {
+    font-size: 13px;
+    display: flex;
+    justify-content: space-between;
+    width: 82vw;
+    margin: 1.5vh auto;
+}

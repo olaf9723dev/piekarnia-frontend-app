@@ -1,0 +1,19 @@
+#client-info-modal-buttons {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 2vh;
+    margin-top: 5vh;
+}
+
+.client-info-modal {
+    --border-radius: 20px;
+    --height: 60vh;
+    align-items: flex-end;
+}
+
+#client-info-modal-title {
+    padding: 2vh 5vh;
+    font-weight: bold;
+}

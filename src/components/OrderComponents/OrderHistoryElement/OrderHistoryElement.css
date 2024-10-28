@@ -1,0 +1,65 @@
+.order-history-element-card {
+    width: 82vw;
+    height: 20vh;
+    display: flex;
+    margin: 3vh auto;
+    padding: 2vh 3vw;
+    box-shadow: 0 0 30px -16px rgb(66 68 90 / 70%);
+    position: relative;
+    flex-direction: row;
+}
+
+.order-history-element-card-image {
+    width: 40%;
+}
+
+.order-history-element-card-details {
+    display: flex;
+    width: 60%;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.order-history-element-card-details-header {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.order-history-element-card-details-status, .order-history-element-card-details-date {
+    color: #999;
+    font-size: 13px;
+}
+
+#order-number {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.order-history-element-card-details-date {
+    display: flex;
+    justify-content: space-between;
+}
+
+.order-price-history {
+    font-weight: bold;
+    color: #333;
+    font-size: 13px;
+}
+
+.single-button-history {
+    width: 45vw;
+    height: 4vh;
+    font-size: 14px !important;
+}
+.single-button-history.md {
+    width: 45vw;
+    height: 4vh;
+    font-size: 10px !important;
+}
+
+.repeated-icon {
+    position: absolute;
+    top: 1vh;
+    right: 1vh;
+}

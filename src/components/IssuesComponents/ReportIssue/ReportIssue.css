@@ -1,0 +1,54 @@
+#select-issue-type {
+    display: flex;
+    width: 80vw;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 5vh;
+}
+
+#report-issue-btn {
+    display: flex;
+    margin: 6vh 0;
+    justify-content: center;
+}
+
+#custom-issue-type-input {
+    --padding-start: 20px;
+}
+
+.issue-img-upload-wrapper {
+    width: 80vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.report-img-wrapper, .report-img-wrapper-display {
+    width: 25vw;
+    height: 25vw;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 0 8px -2px rgba(66, 68, 90, 0.4);
+    -moz-box-shadow: 0 0 8px -2px rgba(66, 68, 90, 0.4);
+    box-shadow: 0 0 8px -2px rgba(66, 68, 90, 0.4);
+    margin-top: 5vh;
+}
+
+.report-img-wrapper-display img {
+    object-fit: cover;
+    width: 25vw;
+    height: 25vw;
+}
+
+.report-img-upload {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 14px;
+    width: 25vw;
+    height: 25vw;
+}
+
+.report-img-upload img {
+    width: 40%;
+    margin-bottom: 1vh;
+}

@@ -1,0 +1,30 @@
+#download-invoice-btn {
+    display: flex;
+    justify-content: center;
+    margin: 5vh 0;
+}
+
+.invoice-details-header-wrapper {
+    margin-top: 4vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.invoice-details-header {
+    display: flex;
+    justify-content: space-between;
+    width: 80vw;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 14px;
+    line-height: 26px;
+}
+
+.apply-to-orders {
+    width: 80vw;
+    font-size: 14px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3vh;
+}

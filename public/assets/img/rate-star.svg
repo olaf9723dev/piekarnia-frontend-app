@@ -1,0 +1,51 @@
+<svg id="Group_848" data-name="Group 848" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22.849" height="21.73" viewBox="0 0 22.849 21.73">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.551" y1="-0.048" x2="0.5" y2="0.666" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffdf14"/>
+      <stop offset="1" stop-color="#fff91d"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.598" y1="0.942" x2="0.499" y2="0.221" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffb809"/>
+      <stop offset="1" stop-color="#ffda04"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.97" y1="0.5" x2="-0.001" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fce21a"/>
+      <stop offset="1" stop-color="#faf525"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.113" y1="0.333" x2="0.497" y2="0.499" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffbd0a"/>
+      <stop offset="1" stop-color="#ffde0b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0.055" y1="0.712" x2="0.498" y2="0.501" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffc101"/>
+      <stop offset="1" stop-color="#ffcb0b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="0.953" y1="0.707" x2="0.503" y2="0.501" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffa904"/>
+      <stop offset="1" stop-color="#ffc914"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="0.43" y1="0.968" x2="0.5" y2="0.224" xlink:href="#linear-gradient-4"/>
+    <linearGradient id="linear-gradient-8" x1="-0.007" y1="0.5" x2="1.008" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffe40e"/>
+      <stop offset="1" stop-color="#fffb17"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-9" x1="0.446" y1="-0.072" x2="0.5" y2="0.667" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffd70b"/>
+      <stop offset="1" stop-color="#fff213"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-10" x1="0.892" y1="0.361" x2="0.499" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffb403"/>
+      <stop offset="1" stop-color="#ffd604"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_2173" data-name="Path 2173" d="M465.7,207.583l-7.77,1.318,11.424,2.565Z" transform="translate(-457.932 -200.601)" fill="url(#linear-gradient)"/>
+  <path id="Path_2174" data-name="Path 2174" d="M605.913,229.608l5.511-5.633L600,226.54Z" transform="translate(-588.576 -215.675)" fill="url(#linear-gradient-2)"/>
+  <path id="Path_2175" data-name="Path 2175" d="M603.655,127.739,600,120.757v10.865Z" transform="translate(-588.576 -120.757)" fill="url(#linear-gradient-3)"/>
+  <path id="Path_2176" data-name="Path 2176" d="M513.345,258.94l-1.147,7.8,7.061-10.865Z" transform="translate(-507.834 -245.006)" fill="url(#linear-gradient-4)"/>
+  <path id="Path_2177" data-name="Path 2177" d="M600,263.236l7.061,3.5L600,255.872Z" transform="translate(-588.576 -245.006)" fill="url(#linear-gradient-5)"/>
+  <path id="Path_2178" data-name="Path 2178" d="M512.2,266.737l7.061-3.5v-7.365Z" transform="translate(-507.834 -245.006)" fill="url(#linear-gradient-6)"/>
+  <path id="Path_2179" data-name="Path 2179" d="M457.932,223.975l5.511,5.633,5.913-3.068Z" transform="translate(-457.932 -215.675)" fill="url(#linear-gradient-7)"/>
+  <path id="Path_2180" data-name="Path 2180" d="M558.207,120.757l-3.655,6.982,3.655,3.883Z" transform="translate(-546.783 -120.757)" fill="url(#linear-gradient-8)"/>
+  <path id="Path_2181" data-name="Path 2181" d="M611.424,208.9l-7.77-1.318L600,211.466Z" transform="translate(-588.576 -200.601)" fill="url(#linear-gradient-9)"/>
+  <path id="Path_2182" data-name="Path 2182" d="M600,255.872l7.061,10.865-1.147-7.8Z" transform="translate(-588.576 -245.006)" fill="url(#linear-gradient-10)"/>
+</svg>

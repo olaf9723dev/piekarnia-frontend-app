@@ -1,0 +1,15 @@
+.edit-pencil-user {
+    position: absolute;
+    top: 3vh;
+    right: 18vw;
+    font-size: 20px;
+}
+
+p {
+    margin: 1.5vh 0;
+}
+
+#client-info-div {
+    margin-top: 3vh;
+    text-align: center;
+}

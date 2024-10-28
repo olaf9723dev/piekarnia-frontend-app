@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+    <g id="Rectangle_3496" data-name="Rectangle 3496" fill="#fff" stroke="#efefef" stroke-width="1">
+        <rect width="40" height="40" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="39" height="39" rx="7.5" fill="none"/>
+    </g>
+    <path id="Icon_material-people" data-name="Icon material-people" d="M21.417,15.467a3.983,3.983,0,1,0-3.983-3.983A3.967,3.967,0,0,0,21.417,15.467Zm-10.622,0a3.983,3.983,0,1,0-3.983-3.983A3.967,3.967,0,0,0,10.795,15.467Zm0,2.656C7.7,18.122,1.5,19.676,1.5,22.77v3.32H20.089V22.77C20.089,19.676,13.888,18.122,10.795,18.122Zm10.622,0c-.385,0-.823.027-1.288.066a5.6,5.6,0,0,1,2.616,4.581v3.32h7.967V22.77C30.712,19.676,24.511,18.122,21.417,18.122Z" transform="translate(3.895 3.205)"/>
+</svg>

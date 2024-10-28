@@ -1,0 +1,25 @@
+.cart-address {
+    padding-left: 15vw !important;
+}
+
+#address-name {
+    font-size: 20px;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+}
+
+.address-details, #phone-number {
+    font-size: 14px;
+    color: #999;
+    display: flex;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+}
+
+.address-cart-radio {
+    width: 28px;
+    height: 28px;
+    position: absolute;
+    left: 10px;
+    top: 5px;
+}

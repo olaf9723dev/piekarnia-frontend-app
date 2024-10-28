@@ -1,0 +1,6 @@
+{
+	"appId": "pl.notbug.piekarnia",
+	"appName": "Mobilna Piekarnia",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

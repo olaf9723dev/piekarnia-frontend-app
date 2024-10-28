@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Rectangle_37" data-name="Rectangle 37" fill="#fff" stroke="#efefef" stroke-width="1">
+    <rect width="40" height="40" rx="8" stroke="none"/>
+    <rect x="0.5" y="0.5" width="39" height="39" rx="7.5" fill="none"/>
+  </g>
+  <path id="Icon_awesome-bell" data-name="Icon awesome-bell" d="M11.3,25.432a3.2,3.2,0,0,0,3.227-3.179H8.072A3.2,3.2,0,0,0,11.3,25.432ZM22.164,18c-.975-1.031-2.8-2.582-2.8-7.664a7.876,7.876,0,0,0-6.454-7.707V1.589a1.613,1.613,0,0,0-3.226,0V2.625a7.876,7.876,0,0,0-6.454,7.707c0,5.081-1.824,6.633-2.8,7.664A1.539,1.539,0,0,0,0,19.074a1.6,1.6,0,0,0,1.619,1.589h19.36A1.6,1.6,0,0,0,22.6,19.074,1.538,1.538,0,0,0,22.164,18Z" transform="translate(8.7 7.284)" fill="#262628"/>
+</svg>

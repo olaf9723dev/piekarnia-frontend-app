@@ -1,0 +1,15 @@
+#news-list {
+    padding: 10px;
+    color: #ffffff;
+}
+
+.news {
+    border-bottom: 1px solid #cecece;
+    margin-top: 10px;
+}
+
+.social {
+    margin-top: 20px;
+    background: none;
+    margin-left: 30px;
+}

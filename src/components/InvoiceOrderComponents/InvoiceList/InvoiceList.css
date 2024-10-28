@@ -1,0 +1,13 @@
+.order-invoice-btn-wrapper {
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+}
+
+.order-invoice-btn {
+    width: 80vw !important;
+}
+
+#invoice-list-wrapper {
+    margin-bottom: 16vh;
+}

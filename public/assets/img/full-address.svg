@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="13" viewBox="0 0 14 13">
+  <g id="Layer_2" data-name="Layer 2" transform="translate(0.035 -0.155)">
+    <g id="map">
+      <rect id="Rectangle_614" data-name="Rectangle 614" width="14" height="13" transform="translate(13.965 13.155) rotate(180)" fill="#9b9b9b" opacity="0"/>
+      <path id="Path_3258" data-name="Path 3258" d="M12.9,5.075,10.629,4.051h-.467L8.12,4.967,6.077,4.051H6.049L5.98,4H5.639L3.363,5.024A.569.569,0,0,0,3,5.593v6.941a.567.567,0,0,0,.8.518l2.043-.916,2.043.916h.028a.484.484,0,0,0,.41,0h.028l2.043-.916,2.043.916a.569.569,0,0,0,.8-.518V5.593a.569.569,0,0,0-.336-.518Zm-6.492.376,1.138.506v5.69l-1.138-.506Zm5.69,6.2-1.138-.506V5.457l1.138.506Z" transform="translate(-1.292 -1.724)" fill="#9b9b9b"/>
+    </g>
+  </g>
+</svg>

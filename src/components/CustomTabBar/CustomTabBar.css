@@ -1,0 +1,74 @@
+#custom-tab-bar {
+    position: relative;
+    bottom: 0;
+    width: 100vw;
+    display: flex;
+    height: 12vh;
+    background: transparent;
+}
+
+#custom-tab-bar-img {
+    width: 100vw;
+    height: 15vh;
+    filter: drop-shadow(0 0 10px rgb(0 0 0 / 0.2));
+}
+
+#custom-tab-bar-left {
+    width: 35vw;
+    height: 10vh;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 3vw;
+}
+
+#custom-tab-bar-right {
+    width: 35vw;
+    height: 10vh;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 3vw;
+}
+
+#fab-orders {
+    margin-bottom: 4vh;
+}
+
+#fab-button {
+    --background: #ec9632;
+    --color: black;
+    --background-activated: #f1a243;
+    transform: translate3d(0, -5px, 0);
+    border-radius: 50%;
+    box-shadow: 0 0 35px 5px rgba(238, 162, 73, 0.4);
+}
+
+#custom-tab-bar-wrapper {
+    position: fixed;
+    bottom: 0;
+    z-index: 1000000;
+}
+
+.tab-btn {
+    --background: transparent;
+    --background-activated: transparent;
+    --background-focused: transparent;
+    --background-hover: transparent;
+    margin: 0;
+}
+
+.tab-selected .tab-btn-img {
+    filter: invert(65%) sepia(52%) saturate(524%) hue-rotate(351deg) brightness(95%) contrast(98%);
+}
+
+.tab-btn-img {
+    width: 5vw;
+    height: 5vw;
+}

@@ -1,0 +1,8 @@
+#invoice-details-btn {
+    display: flex;
+    justify-content: center;
+}
+
+.invoice-card {
+    min-height: 18vh !important;
+}

@@ -1,0 +1,157 @@
+.order-details-container {
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 3vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.order-status {
+    font-weight: bold;
+}
+
+.order-status-header {
+    color: #999;
+    font-size: 12px;
+}
+.order-status-bold {
+    color: #666;
+    font-size: 14px;
+}
+
+.order-price, .order-status {
+    font-size: 14px;
+}
+
+#order-status-wrapper {
+    display: flex;
+    width: 82vw;
+    flex-direction: column;
+}
+
+#order-status-inner {
+    display: flex;
+    width: 82vw;
+    justify-content: space-between;
+    line-height: 24px;
+}
+
+.order-status-left {
+    text-align: left;
+}
+
+.order-status-right {
+    text-align: right;
+}
+
+#delivery-type-wrapper, #order-payment-method-wrapper, #order-invoice-wrapper, #repeatability-wrapper, #issues-wrapper, #notes-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 82vw;
+}
+
+.delivery-details, .payment-method, #order-invoice-inner {
+    display: flex;
+    align-items: center;
+}
+
+.delivery-img-wrapper, .payment-img-wrapper-order {
+    width: 16vw;
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 4vw;
+}
+
+.order-delivery-header {
+    font-size: 16px;
+    margin-bottom: 1vh;
+}
+
+.order-delivery-address-details {
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.payment-status {
+    display: flex;
+    flex-direction: column;
+    font-size: 14px;
+}
+
+.payment-status-name {
+    display: flex;
+}
+
+.pay-button {
+    margin-left: 16vw;
+}
+
+.single-button-order-details {
+    width: 40vw;
+    height: 4vh;
+    font-size: 14px !important;
+}
+
+#invoice-file {
+    width: 50%;
+    font-size: 13px;
+}
+
+#order-invoice-btn {
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+#order-invoice-inner {
+    display: flex;
+    justify-content: space-between;
+    width: 80vw;
+}
+
+#repeated-on {
+    font-size: 13px;
+    width: 50%;
+}
+
+#repeat-buttons {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+#repeatability {
+    display: flex;
+    justify-content: space-between;
+}
+
+.single-button-report-issue {
+    width: 56vw;
+    height: 4vh;
+    font-size: 14px;
+}
+
+#report-issue-button {
+    width: 82vw;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2vh;
+}
+
+#copy-to-cart-btn {
+    margin-top: 3vh;
+}
+
+.edit-repeatability-modal {
+    --border-radius: 20px;
+    --height: 60vh;
+    align-items: flex-end;
+}
+
+.notes-desc {
+    font-size: 14px;
+}

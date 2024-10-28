@@ -1,0 +1,22 @@
+.my-account-btn {
+    position: relative;
+    width: 100vw;
+    text-align: left;
+    margin: 1.5vh 0;
+}
+
+.my-acc-left-icon {
+    position: absolute;
+    left: 10vw;
+}
+
+.my-acc-right-icon {
+    position: absolute;
+    right: 5vw;
+}
+
+.my-acc-btn-desc {
+    margin-left: 26vw;
+    width: 100vw;
+    font-size: 14px;
+}

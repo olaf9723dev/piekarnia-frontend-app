@@ -1,0 +1,12 @@
+.data-list {
+  list-style: none;
+  padding: 0;
+}
+
+#new-address-inner {
+  height: 20vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}

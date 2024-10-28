@@ -1,0 +1,21 @@
+#news-list {
+    padding: 10px;
+}
+
+.news {
+    border-bottom: 1px solid #cecece;
+    margin-top: 10px;
+}
+
+.social {
+    background: none;
+    margin-left: 30px;
+}
+
+.flex {
+    display: flex;
+    vertical-align: middle;
+    align-content: center;
+    align-items: center;
+    height: calc(100vh - 200px);
+}

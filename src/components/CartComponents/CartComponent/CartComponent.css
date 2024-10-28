@@ -1,0 +1,217 @@
+#summary {
+    position: fixed;
+    bottom: 0;
+    height: 28vh;
+    width: 100vw;
+    background: white;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    -webkit-box-shadow: 0 0 50px -15px rgba(66, 68, 90, 1);
+    -moz-box-shadow: 0 0 50px -15px rgba(66, 68, 90, 1);
+    box-shadow: 0 0 50px -15px rgba(66, 68, 90, 1);
+    display: flex;
+    flex-direction: column;
+    z-index: 100000;
+    color: #333;
+}
+
+#pay-btn {
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    justify-content: center;
+    margin-top: 2vh;
+}
+
+#summary-delivery, #summary-order, #summary-sum {
+    display: flex;
+    justify-content: space-between;
+    width: 80vw;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2vh;
+}
+
+#summary-sum {
+    font-weight: bold;
+}
+
+.do-repeat {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80vw;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.do-repeat h5 {
+    width: 60vw;
+    font-weight: bold;
+}
+
+.choose-repeat h5, .repeat-freq h5 {
+    font-weight: bold;
+}
+
+.choose-repeat, .repeat-freq {
+    display: flex;
+    align-items: center;
+    width: 80vw;
+    margin-right: auto;
+    margin-left: auto;
+    flex-direction: column;
+}
+
+.payment-radio {
+    width: 80vw;
+    margin: 1.2vh 0;
+    font-size: 14px;
+    --padding-start: 10px;
+}
+
+#payment-method-list, #delivery-type-list, #notes-list {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80vw;
+}
+
+.payment-img-wrapper {
+    width: 42px;
+    height: 42px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    margin-right: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.delivery-address-swiper-wrapper {
+    width: 90vw;
+    margin-left: auto;
+    margin-right: auto;
+    height: 26vh;
+    margin-top: 3vh;
+}
+
+.add-address-cart-wrapper {
+    width: 70vw;
+    margin-left: auto;
+    margin-right: auto;
+    height: 26vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.add-address-cart-wrapper .new-address-inner {
+    width: 70vw;
+}
+
+.delivery-address {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80vw;
+}
+
+#cart-products {
+    margin-top: 2vh;
+}
+
+
+.place-products-cart {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.trash-icon-header {
+    margin-top: 1vh;
+}
+
+.place-cart-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100vw;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1vh;
+    background: transparent;
+}
+
+.card-details-price {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.incrementer {
+    width: 100px;
+    height: 28px;
+    border-radius: 20px;
+    background: #f0a244;
+    display: flex;
+    -webkit-box-shadow: 5px 5px 15px -3px rgba(240, 162, 68, 1);
+    -moz-box-shadow: 5px 5px 15px -3px rgba(240, 162, 68, 1);
+    box-shadow: 5px 5px 15px -3px rgba(240, 162, 68, 1);
+}
+
+.incrementer-button {
+    width: 34px;
+    height: 28px;
+    margin: 0;
+    padding: 0;
+    --border-radius: 20px;
+    color: #fefefe;
+    --padding: 0
+}
+
+.incrementer-input {
+    --padding-top: 0px;
+    --padding-end: 0px;
+    --padding-bottom: 0px;
+    text-align: center;
+    color: #fefefe;
+    width: 32px;
+    font-size: 22px;
+}
+
+.incrementer-inner {
+    width: 34px;
+    height: 28px;
+    padding: 0;
+    --padding: 0;
+    font-size: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.freq-selects {
+    display: flex;
+    width: 80vw;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between;
+}
+
+.select-freq {
+    width: 34vw !important;
+    justify-content: space-between;
+}
+
+.repeat-radio {
+    width: 80vw;
+    margin-left: auto;
+    margin-right: auto;
+}

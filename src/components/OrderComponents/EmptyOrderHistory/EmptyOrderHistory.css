@@ -1,0 +1,9 @@
+#empty-order-history-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 70vh;
+    justify-content: center;
+    margin-bottom: 6vh;
+    margin-top: 3vh;
+}

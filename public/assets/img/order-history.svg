@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Rectangle_37" data-name="Rectangle 37" fill="#fff" stroke="#efefef" stroke-width="1">
+    <rect width="40" height="40" rx="8" stroke="none"/>
+    <rect x="0.5" y="0.5" width="39" height="39" rx="7.5" fill="none"/>
+  </g>
+  <g id="Icon_feather-package" data-name="Icon feather-package" transform="translate(4.701 4.36)">
+    <path id="Path_36152" data-name="Path 36152" d="M22.2,12.63,11.25,6.315" transform="translate(-1.275 -0.625)" fill="none" stroke="#262628" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Path_36153" data-name="Path 36153" d="M26.4,20.035V10.3a2.433,2.433,0,0,0-1.217-2.1L16.668,3.329a2.434,2.434,0,0,0-2.434,0L5.717,8.2A2.434,2.434,0,0,0,4.5,10.3v9.734a2.434,2.434,0,0,0,1.217,2.1l8.517,4.867a2.434,2.434,0,0,0,2.434,0l8.517-4.867a2.433,2.433,0,0,0,1.217-2.1Z" fill="none" stroke="#262628" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Path_36154" data-name="Path 36154" d="M4.905,10.44l10.622,6.145L26.149,10.44" transform="translate(-0.076 -1.404)" fill="none" stroke="#262628" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Path_36155" data-name="Path 36155" d="M18,30.265V18" transform="translate(-2.549 -2.832)" fill="none" stroke="#262628" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  </g>
+</svg>

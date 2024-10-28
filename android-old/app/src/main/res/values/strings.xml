@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Piekarnia Rzemieślnicza</string>
+    <string name="title_activity_main">Piekarnia Rzemieślnicza</string>
+    <string name="package_name">pl.notbug.piekarnia</string>
+    <string name="custom_url_scheme">pl.notbug.piekarnia</string>
+    <string name="facebook_app_id">1647718275596127</string>
+    <string name="fb_login_protocol_scheme">fb1647718275596127</string>
+    <string name="facebook_client_token">cc6b2616e1f0295fd43409732cf452ca</string>
+    <string name="server_client_id">884445109096-45ih2i9uiegd42684pqtdqhvmbn673ek.apps.googleusercontent.com</string>
+</resources>

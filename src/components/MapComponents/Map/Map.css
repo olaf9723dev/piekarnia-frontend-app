@@ -1,0 +1,40 @@
+.search-filter-tools {
+    display: flex;
+    position: absolute;
+    background: transparent;
+    top: 10vh;
+    justify-content: space-between;
+    z-index: 1500;
+    height: 10vh;
+    width: 80vw;
+    left: 5vw;
+    right: 5vw;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.search-input {
+    height: 40px;
+    border-radius: 30px;
+    background: #fefefe;
+    color: #aaa;
+    font-size: 14px;
+    margin: 0;
+}
+
+.map-filter-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 40px;
+    border-radius: 12px;
+    color: #aaa;
+    font-size: 20px;
+    background: #fefefe;
+    margin: 0 10px;
+}
+
+ion-icon[slot=start] {
+  margin-inline: 4px;
+}

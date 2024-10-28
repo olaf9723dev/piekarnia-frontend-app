@@ -1,0 +1,26 @@
+.transaction-history-element-card {
+    width: 82vw;
+    height: 16vh;
+    display: flex;
+    margin: 3vh auto;
+    padding: 2vh 5vw;
+    box-shadow: 0 0 30px -16px rgb(66 68 90 / 70%);
+}
+
+.order-history-element-card-details {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#order-number {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#transaction-price-history {
+    font-weight: bold;
+    color: #333;
+    font-size: 15px;
+}

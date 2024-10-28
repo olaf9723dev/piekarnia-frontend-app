@@ -1,0 +1,23 @@
+.filter-tile-orders {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: 1px solid #999;
+    min-width: 140px;
+    min-height: 40px;
+    border-radius: 12px;
+    font-size: 14px;
+}
+
+.filter-tile-repeatability {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: 1px solid #999;
+    min-width: 110px;
+    min-height: 40px;
+    border-radius: 12px;
+    font-size: 14px;
+}

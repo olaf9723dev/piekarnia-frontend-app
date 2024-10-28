@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "884445109096",
+    "project_id": "mobilnapiekarnia",
+    "storage_bucket": "mobilnapiekarnia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884445109096:android:74061f0dea9fb01aa0d4dd",
+        "android_client_info": {
+          "package_name": "pl.notbug.piekarnia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884445109096-45ih2i9uiegd42684pqtdqhvmbn673ek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhJ35qrVz2taV3CuO0dpGF1lwpeo0LJ68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884445109096-45ih2i9uiegd42684pqtdqhvmbn673ek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,43 @@
+.message {
+    width: 55vw;
+    border-radius: 30px;
+    min-height: 4vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    padding: 2vw 5vw;
+    margin: 1vh 0;
+    font-size: 14px;
+}
+
+.message img {
+    border-radius: 8px;
+    margin-top: 1vh;
+}
+
+.user-message {
+    background: #f1a243;
+    align-self: flex-end;
+}
+
+.admin-message {
+    background: #ccc;
+    align-self: flex-start;
+}
+
+.message-image {
+    width: 55vw;
+    border-radius: 30px;
+    min-height: 4vh;
+    display: flex;
+    background: transparent !important;
+    justify-content: left;
+    align-items: center;
+    margin: 1vh 0;
+    font-size: 14px;
+    border: 1px solid #ccc;
+}
+
+.message-image img {
+    border-radius: 30px;
+}

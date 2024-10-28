@@ -1,0 +1,92 @@
+#images-gallery {
+    width: 88vw;
+    margin-top: 3vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#order-product-details {
+    width: 88vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#order-buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    height: 16vh;
+    margin-bottom: 16vh;
+}
+
+#choose-variant {
+    margin: 1vh auto;
+    display: flex;
+    justify-content: center;
+}
+
+#add-product {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 3vh;
+}
+
+.quantity-counter {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /*width: 40vw;*/
+}
+
+.minus-btn, .plus-btn {
+    width: 50px;
+    height: 50px;
+    --padding-start: 0;
+    --padding-end: 0;
+}
+
+.minus, .plus {
+    font-size: 46px;
+}
+
+.minus {
+    color: #333;
+}
+
+.plus {
+    color: #eea249;
+}
+
+#quantity-input .native-input {
+    display: flex;
+    width: 25px;
+    font-size: 24px;
+    padding: 0;
+    justify-content: center;
+    text-align: center;
+}
+
+.select-option-div {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.nutrition-info {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.nutri-row {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    line-height: 26px;
+    border-bottom: 1px dotted #666;
+}
+
+.details-description {
+    margin-bottom: 3vh;
+}

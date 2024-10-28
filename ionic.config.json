@@ -1,0 +1,7 @@
+{
+  "name": "piekarniaMobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

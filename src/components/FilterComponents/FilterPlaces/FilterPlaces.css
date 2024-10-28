@@ -1,0 +1,55 @@
+.filter-tile {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: 1px solid #999;
+    min-width: 80px;
+    min-height: 40px;
+    border-radius: 12px;
+    font-size: 14px;
+}
+
+.price-tile {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: 1px solid #999;
+    min-width: 80px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 14px;
+}
+
+.rate-tile {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: 1px solid #999;
+    width: 50px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+.active-tile {
+    background: #333333;
+    color: #fefefe;
+}
+
+.distance-range {
+    --knob-size: 20px;
+    --knob-handle-size: 50px;
+}
+
+.distance-range .range-bar {
+    height: 4px;
+}
+
+.filter-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5vh;
+}

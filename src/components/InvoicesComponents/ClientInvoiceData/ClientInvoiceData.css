@@ -1,0 +1,21 @@
+
+.favorite {
+    position: absolute;
+    left: -8px;
+    top: -8px;
+    font-size: 20px;
+}
+
+#company-name {
+    font-size: 20px;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+}
+
+#address-details, #nip-number {
+    font-size: 14px;
+    color: #999;
+    display: flex;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+}
